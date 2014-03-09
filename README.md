@@ -1,12 +1,11 @@
 ﻿synchronizationPerl
 ===================
 
-Perl implementation of an basic application (in French) to synchronize files between two folders under Apache 2.0 license.
+Perl implementation of an basic application (in French) to synchronize files between two folders under Apache 2.0 license. Realized during the first year at [high school Arc](http://www.he-arc.ch) (Switzerland).
 
 Compatibilité
 -------------
-Ce programme est écrit en Perl et est compatible avec la plupart des systèmes Linux actuels permettant l’exécution de scripts Perl.
-Il est également possible d’exécuter ce programme via, par exemple, ActivePerl, ce qui permet d’exécuter celui-ci sur les environnements Windows et Mac.
+Ce programme est écrit en Perl et est compatible avec la plupart des systèmes Linux actuels permettant l’exécution de scripts Perl. Il est également possible d’exécuter ce programme via, par exemple, ActivePerl, ce qui permet d’exécuter celui-ci sur les environnements Windows et Mac.
 
 ActivePerl est téléchargeable à l’adresse : http://www.activestate.com/activeperl/downloads
 
